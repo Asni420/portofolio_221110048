@@ -1,0 +1,13 @@
+body {
+  nav {
+    background-color: #ccc0aa;
+  }
+  .jumbotron {
+    padding-top: 5rem;
+
+    background-color: #ffc0cb;
+  }
+  .id=About {
+    background-color: #ccc0aa;
+  }
+}
